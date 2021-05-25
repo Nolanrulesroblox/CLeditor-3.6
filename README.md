@@ -27,6 +27,6 @@ How to use:
  </b>
  <br>
   <br> <br> <br>
- Script Updated by Nolan of NRRINC, Mainly for Self Purposes. Must Compliy with original author's CC. MIT and GPL V2, Check LICESNE file.
+ Script Updated by Nolan of NRRINC, Mainly for Self Purposes. Must Compliy with original author's CC. MIT and GPL V2, Check LICENSE file.
   <br> <br>
  In no way, shape, or form is NRRINC or Nolan of NRRINC Holding any copyright. 
