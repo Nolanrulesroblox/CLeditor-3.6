@@ -6,7 +6,7 @@
  Copyright 2010, Chris Landowski, Premium Software, LLC
  Dual licensed under the MIT or GPL Version 2 licenses.
 */
-$('head').append('<link rel="stylesheet" href="/lib/editor/jquery.cleditor.css">');
+$('head').append('<link rel="stylesheet" href="jquery.cleditor.css">');
 (function ($) {
 
   //==============
