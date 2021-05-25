@@ -20,3 +20,13 @@ How to use:
 </body>
   
 ```
+
+<b>
+ Copyright 2010, Chris Landowski, Premium Software, LLC
+ Dual licensed under the MIT or GPL Version 2 licenses.
+ </b>
+ <br>
+  <br> <br> <br>
+ Script Updated by Nolan of NRRINC, Mainly for Self Purposes. Must Compliy with original author's CC. MIT and GPL V2, Check LICESNE file.
+  <br> <br>
+ In no way, shape, or form is NRRINC or Nolan of NRRINC Holding any copyright. 
